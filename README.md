@@ -63,7 +63,9 @@ open index.html
 
 ## ✨ Preview
 
-![Form Design Screenshot](assets/images/screenshot.png)
+![Sign up](https://github.com/user-attachments/assets/6fd77059-3a51-4e36-91ea-63bd8b22c247)
+![Sign in](https://github.com/user-attachments/assets/686dfbed-7926-45b8-a421-e448b36ab259)
+
 
 ---
 
