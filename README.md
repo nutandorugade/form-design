@@ -29,7 +29,7 @@ form-design/
 - `index.html` – Main HTML structure of the form.
 - `style.css` – CSS styles for layout, typography, and form design.
 - `validation.js` – JavaScript for interactivity and validation.
-- `assets/images` – Images and icons used in the project.
+- `background.jpg` – Images and icons used in the project.
 
 ---
 
